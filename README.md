@@ -19,4 +19,4 @@ https://d.5i4.net/ndJwFT?  链接
 前段时间，有几天不好使，目前恢复了。
 
 
-http://share.mipeiapp.com/spread/VnO6vpMN（质量陌生交友，没有机器人，小推广，感谢照顾）
+http://share.mipeiapp.com/spread/VnO6vpMN（质量陌生交友，小推广，感谢照顾。避免大家浪费时间，这款非免费，需要冲两级会员才能用，免费需求的就不用看了。优点是没有机器人，人多真实）
