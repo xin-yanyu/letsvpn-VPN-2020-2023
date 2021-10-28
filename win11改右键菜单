@@ -1,0 +1,7 @@
+最近更新win11 右键菜单实在忍不了，终于找到恢复原右键菜单的方法。分享给大家。
+
+cmd命令窗命令
+
+切换到旧版右键菜单：reg add "HKCU\Software\Classes\CLSID{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+
+恢复回Win11右键菜单：reg delete "HKCU\Software\Classes\CLSID{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
