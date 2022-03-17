@@ -11,6 +11,10 @@
 
 https://d.5i4.net/ndJwFT?  链接
 
+2022-3-17如果上面不好用，更新两个链接。邀请人ID记得主动填写，新版本过了24小时候就不让填了
+下载链接（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo/src/master/README.md
+备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_1
+
 2021-01-25 
 最近官方抽风windows版本不赠了。可以先用手机下载一个，填写推荐码获得免费天数，在手机申请一个账号。然后下载windows版本，填写邀请码后，登录手机上的账号即可用电脑使用。
 
