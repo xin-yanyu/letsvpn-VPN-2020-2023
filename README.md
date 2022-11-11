@@ -13,7 +13,7 @@ https://d.5i4.net/ndJwFT?  链接
 备用链接1（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo/src/master/
 
 2022-11-11
-https://www.dou11.net/double-eleven-comming.html?lp_camp=yxs 双十一活动链接 8-17日有效。客服发的，也许有优惠吧，推荐码要填。
+https://www.dou11.net/double-eleven-comming.html?lp_camp=yxs 双十一活动链接 8-17日有效。客服发的，也许有优惠吧。
 
 2022-07-13
 客服给我推荐新版本内置的【大家在玩】功能，会有些常用网站，可能是些常用网站吧，谷歌啥的，我没更新，不知道具体啥情况。
