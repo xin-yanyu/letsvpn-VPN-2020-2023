@@ -1,4 +1,4 @@
-# letsvpn-VPN-2020-2022
+# letsvpn-VPN-2020-2023
 # 快连 vpn  收藏此页，有朋友需要就发给他。
 找了好久才找到能免费试用的，好用的。
 
@@ -8,9 +8,10 @@
 没用过的填码能领7天 
 推荐码：174451533
 
+备用链接1（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo/src/master/
+备用链接2 https://bitbucket.org/letsgogo/letsgogo_10/src/master/README.md
 https://d.z8n.net/BqpNzS?  链接
 
-备用链接1（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo/src/master/
 
 2022-11-11
 https://www.dou11.net/double-eleven-comming.html?lp_camp=yxs 双十一活动链接 8-17日有效。客服发的，也许有优惠吧。
